@@ -33,10 +33,11 @@ docker-compose up -d
 ## email
 
   Below is email setting.
-  The page is in jenkins -> configure.
-  
+
+  **The page is in jenkins -> configure.**
+ 
   <img width="650" height="400" src=./image/email-1.png>
-  
-  you can type below setting and then test email function.
-  
+
+  **you can type below setting and then test email function.**
+
   <img width="650" height="300" src=./image/email-2.png>
