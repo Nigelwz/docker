@@ -16,7 +16,7 @@ docker-compose up -d
 ```
 * 1
 
-  type ip:port in your search engine.
+  type ```console ip:port ``` in your search engine.
   you can see below image and nodify you type initpassword
   
   <img width="800" height="500" src=./image/email-1.png>
