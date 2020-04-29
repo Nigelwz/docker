@@ -19,7 +19,7 @@ docker-compose up -d
   type ``` ip:port ``` in your search engine.
   you can see below image and nodify you type initpassword
   
-  <img width="800" height="500" src=./image/email-1.png>
+  <img width="650" height="500" src=./image/jenkins_password.png>
   
   NOTE:Add docker_compose.yml - user: root \
   let jenkins permission to root
