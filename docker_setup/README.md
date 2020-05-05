@@ -49,8 +49,18 @@ docker-compose up -d
 ## ssh-agent
 
 
-  <img width="650" height="400" src=./image/add-agent.png>
+  <img width="650" height="150" src=./image/add-agent.png>
   
-  <img width="650" height="400" src=./image/add-agent2.png>
+  1. configure->add node-> type your nodename -> tick  permanent agent option
+  
+  <img width="650" height="350" src=./image/add-agent2.png>
+  
+  1. set remote directory to /home/name/data then set 'chown -R 1000 /home/name/data'
+  2. set start mode to 'via ssh'
+  3. Add your crederitials then type your host's "user and password"
   
   <img width="650" height="300" src=./image/agent-Credential.png>
+  
+  4. set your Host key verification strategy to "Non cerifying cerification strategy"
+  
+  
