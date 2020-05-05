@@ -49,8 +49,8 @@ docker-compose up -d
 ## ssh-agent
 
 
-  <img width="650" height="300" src=./image/add-agent.png>
+  <img width="650" height="400" src=./image/add-agent.png>
   
-  <img width="650" height="300" src=./image/add-agent2.png>
+  <img width="650" height="400" src=./image/add-agent2.png>
   
   <img width="650" height="300" src=./image/agent-Credential.png>
